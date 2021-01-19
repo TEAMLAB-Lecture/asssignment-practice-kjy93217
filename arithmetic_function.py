@@ -14,7 +14,7 @@ def addition(a, b):
     # pass
     # ===Modify codes below=============
 
-    result = a 
+    result = a + b
 
     # ==================================
 
